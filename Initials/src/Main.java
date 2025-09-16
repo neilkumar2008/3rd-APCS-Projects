@@ -4,6 +4,7 @@ public class Main implements Directions{
   public static void main(String[] args) {
     World.setVisible(true);// allows us to see the run
     World.setDelay(5); 
+	  //hi 
 
     // The line below creates a Robot that we will refer to as r.  
     // Find out what the numbers and direction do!
@@ -105,4 +106,5 @@ public class Main implements Directions{
 	r.putBeeper();
 
   }
+
 }
